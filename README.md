@@ -6,6 +6,8 @@
 [![Three.js](https://img.shields.io/badge/Three.js-r186-000000.svg)](https://threejs.org/)
 [![Single file](https://img.shields.io/badge/build-single%20HTML-f0a24a.svg)](index.html)
 
+**在线演示**：<https://chongyep.github.io/3D-map-modeling/> · **单文件下载**：[`index.html`](index.html)
+
 ![长征数字沙盘全路线](docs/screenshots/01-全路线.png)
 
 ## 这是什么
