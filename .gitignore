@@ -1,0 +1,21 @@
+# dependencies
+node_modules/
+app/node_modules/
+
+# build output (root index.html is the committed single-file demo)
+app/dist/
+
+# local terrain tile cache
+app/terrain-tiles/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# local logs and test artifacts
+*.log
+.review*/
+resp-*.png
+verify-offline.png
