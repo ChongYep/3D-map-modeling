@@ -8,6 +8,8 @@
 
 **在线演示**：<https://chongyep.github.io/3D-map-modeling/> · **单文件下载**：[`index.html`](index.html)
 
+> 在线演示首次加载约 7.3 MB，GitHub Pages 不做 HTML 压缩；网速慢时建议直接下载 `index.html` 本地打开。
+
 ![长征数字沙盘全路线](docs/screenshots/01-全路线.png)
 
 ## 这是什么
